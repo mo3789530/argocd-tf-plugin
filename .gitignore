@@ -1,0 +1,9 @@
+argocd-tf-plugin
+RELEASE_CHANGELOG.md
+bin
+.DS_Store
+local
+cover.out
+
+# Project workspaces
+.idea
